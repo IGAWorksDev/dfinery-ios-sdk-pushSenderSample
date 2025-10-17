@@ -1,0 +1,26 @@
+{
+    "aps": {
+        "alert": {
+            "title": "This is Title",
+            "body": "This is Body"
+        },
+        "category": "DFINERY",
+        "mutable-content": 1
+    },
+    "dfn": {
+        "img": "https://picsum.photos/300/300",
+        "is_f": 1,
+        "is_test": 1,
+        "c_id": "campaignId",
+        "n_id": "notificationId",
+        "s_id": "serviceId",
+        "u_id": "unifiedId",
+        "click_act": {
+            "l_id": "1",
+            "l_name": null,
+            "l_type": "PushMessage",
+            "act_type": "Deeplink",
+            "uri": "scheme://path"
+        }
+    }
+}
